@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 expenses = []
-
+#hi this is a code
 while True:
 
     print("\n1. Add Expense")
