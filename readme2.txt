@@ -23,4 +23,4 @@ Expense Visualizer is a Python project that displays expense data using graphica
 ## Future Improvements
 - Interactive dashboard
 - CSV/Excel support
-- Advanced analytics
+- Advanced analytics.
